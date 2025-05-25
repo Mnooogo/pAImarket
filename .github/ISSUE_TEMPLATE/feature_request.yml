@@ -1,0 +1,34 @@
+name: 💡 Feature Request
+description: Suggest a new idea or enhancement
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your idea! Let us know how it would improve PiMarket.
+
+  - type: input
+    id: title
+    attributes:
+      label: ✍️ Title
+      placeholder: One-line summary
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: 🤔 Why is this useful?
+      placeholder: It would help users by...
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 📋 Describe the feature
+      placeholder: I propose adding...
+
+  - type: checkboxes
+    id: optional
+    attributes:
+      label: 🔧 Related
+      options:
+        - label: This is related to a bug I reported
+        - label: I want to help implement this
