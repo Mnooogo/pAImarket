@@ -1,0 +1,33 @@
+name: 🚀 Pull Request
+description: Suggest changes or improvements to PiMarket
+title: "🔧 [Feature/Fix] - "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        👋 Thanks for contributing to **PiMarket**!
+
+        Please describe what this pull request does and why it should be merged.
+
+  - type: input
+    id: related_issue
+    attributes:
+      label: 🔗 Related Issue or Ticket
+      placeholder: #42 or N/A
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 📋 What’s inside this PR?
+      description: Brief summary of the change.
+      placeholder: Added a new feature that allows...
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: ✅ Checklist
+      options:
+        - label: Code follows project style (clean, commented)
+        - label: I have tested this thoroughly
+        - label: No sensitive data is exposed
+        - label: Documentation / README was updated if needed
