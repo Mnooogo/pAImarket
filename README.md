@@ -48,3 +48,10 @@ This project is licensed under the **Pi Open Source License (PiOS)**.
 🔗 Pi Username: `@mnooogo1`  
 📧 Email: `mnooogopi@devcodeapp.site`  
 🌍 Project Site: [https://playforall.online](https://playforall.online)
+
+---
+
+## 💖 Support
+
+If you like PiMarket, consider supporting the project:  
+👉 [**Donate in π / Support Page**](https://playforall.online/pimarket/support.html)
