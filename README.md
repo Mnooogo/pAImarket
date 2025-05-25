@@ -55,3 +55,7 @@ This project is licensed under the **Pi Open Source License (PiOS)**.
 
 If you like PiMarket, consider supporting the project:  
 👉 [**Donate in π / Support Page**](https://playforall.online/pimarket/support.html)
+
+## 💖 Support
+[Visit Support Page →](https://playforall.online/pimarket/support.html)
+
