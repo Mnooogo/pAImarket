@@ -1,10 +1,10 @@
 [![Pitch Deck](https://img.shields.io/badge/View-Pitch_Deck-blueviolet?style=for-the-badge&logo=readme)](https://github.com/Mnooogo/pAImarket/blob/main/pAImarket.pdf)
 
-# pimarket – P2P Marketplace Powered by Pi 💱
+# pAImarket – P2P Marketplace Powered by Pi 💱
 
 > Local commerce, global Pi impact 🌍
 
-PiMarket is a decentralized peer-to-peer (P2P) web application built for local communities using Pi cryptocurrency as the main payment method. It empowers individuals to list, discover, and trade products in Pi without intermediaries or fiat conversion.
+pAImarket is a decentralized peer-to-peer (P2P) web application built for local communities using Pi cryptocurrency as the main payment method. It empowers individuals to list, discover, and trade products in Pi without intermediaries or fiat conversion.
 
 ---
 
@@ -31,7 +31,7 @@ PiMarket is a decentralized peer-to-peer (P2P) web application built for local c
 
 ## 📷 Demo
 
-🌐 **Live Demo**: [https://playforall.online/pimarket](https://playforall.online/pimarket)
+🌐 **Live Demo**: [https://playforall.online/pAImarket](https://playforall.online/pAImarket)
 
 📽️ **Pitch Video**: (coming soon)
 
