@@ -1,3 +1,5 @@
+[![Pitch Deck](https://img.shields.io/badge/View-Pitch_Deck-blueviolet?style=for-the-badge&logo=readme)](https://github.com/Mnooogo/pAImarket/blob/main/pAImarket.pdf)
+
 # pimarket – P2P Marketplace Powered by Pi 💱
 
 > Local commerce, global Pi impact 🌍
@@ -23,7 +25,7 @@ PiMarket is a decentralized peer-to-peer (P2P) web application built for local c
 - Frontend: HTML, CSS, JavaScript
 - Backend: PHP (no framework), JSON-based storage
 - API: Bitget.com for Pi/USDT market data
-- Deployment: Apache/PHP hosting on `https://playforall.online/pimarket`
+- Deployment: Apache/PHP hosting on `https://playforall.online/pAImarket`
 
 ---
 
@@ -54,8 +56,8 @@ This project is licensed under the **Pi Open Source License (PiOS)**.
 ## 💖 Support
 
 If you like PiMarket, consider supporting the project:  
-👉 [**Donate in π / Support Page**](https://playforall.online/pimarket/support.html)
+👉 [**Donate in π / Support Page**](https://playforall.online/pAImarket/support.html)
 
 ## 💖 Support
-[Visit Support Page →](https://playforall.online/pimarket/support.html)
+[Visit Support Page →](https://playforall.online/pAImarket/support.html)
 
