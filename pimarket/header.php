@@ -6,7 +6,7 @@ $pageClass = basename($_SERVER['PHP_SELF'], '.php');
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>PiMarket</title>
+  <title>pAImarket</title>
 
   <!-- 🌍 GTranslate -->
   <script>
@@ -27,36 +27,11 @@ $pageClass = basename($_SERVER['PHP_SELF'], '.php');
       color: #fff;
     }
 
-#gtranslate {
-  position: fixed;
-  top: 2px;
-  right: 2px;
-  z-index: 9999;
-  background: #000;
-  padding: 1px 6px;
-  border-radius: 6px;
-  box-shadow: 0 0 4px gold;
-  font-size: 12px;
-  height: auto;
-  display: flex;
-  align-items: center;
-  max-width: 160px;
-}
-
-#gtranslate select {
-  background: transparent;
-  color: #fff;
-  border: none;
-  font-weight: bold;
-  cursor: pointer;
-  font-size: 12px;
-  width: 100%;
-}
 
 
     /* 🎨 Backgrounds per page */
     body.index            { background: #334f2f; }
-    body.cart             { background: #4d2d2d; }
+    body.cart             { background: #4c386d; }
     body.login            { background: #1d2f1d; }
     body.dashboard        { background: #223344; }
     body.add-product      { background: #335544; }
@@ -87,8 +62,8 @@ $pageClass = basename($_SERVER['PHP_SELF'], '.php');
     }
 
     button, .button {
-      background: #6c6438;
-      color: #fffff;
+      background: #a19b7f;
+      color: #ffffff;
       padding: 10px 20px;
       font-weight: bold;
       border: none;
@@ -138,7 +113,7 @@ $pageClass = basename($_SERVER['PHP_SELF'], '.php');
     }
 
     .product-card {
-      background: #3f5c39;
+      background: #585c39;
       padding: 1rem;
       border-radius: 10px;
       box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
@@ -202,11 +177,13 @@ $pageClass = basename($_SERVER['PHP_SELF'], '.php');
     .container {
       max-width: 800px;
       margin: auto;
-      background: #3f5c39;
+      background: #273c4d;
       padding: 2rem;
       border-radius: 10px;
       box-shadow: 0 4px 20px rgba(0,0,0,0.5);
     }
+
+
 
     .container img {
       max-width: 100%;
@@ -230,7 +207,92 @@ $pageClass = basename($_SERVER['PHP_SELF'], '.php');
         max-width: 100%;
       }
     }
+    
+    
+.search-translate-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin: 10px auto;
+  max-width: 600px;
+  padding: 10px;
+  border-radius: 12px;
+  background: linear-gradient(to right, #4b0082, #8a2be2); /* 💜 виолетово */
+  box-shadow: 0 0 8px rgba(138, 43, 226, 0.4);
+}
+
+.search-translate-wrap form {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  gap: 8px;
+}
+
+.search-translate-wrap input[type="text"] {
+  padding: 8px 12px;
+  font-size: 15px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  flex: 1;
+  min-width: 160px;
+}
+
+.search-translate-wrap button {
+  background: #ffd700;
+  color: #000;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+
+/* За малки екрани – подрежда вертикално */
+@media (max-width: 480px) {
+  .search-translate-wrap {
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .search-translate-wrap form {
+    width: 100%;
+  }
+}
+
+.featured-banner {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #ffd700;
+  text-shadow: 1px 1px 2px #000;
+  background: linear-gradient(to right, #443300, #665500);
+  padding: 0.5rem 1rem;
+  border-radius: 12px;
+  display: inline-block;
+  margin: 1rem auto;
+  box-shadow: 0 0 12px rgba(255, 215, 0, 0.3);
+}
+
+
   </style>
+
+ 
+
+
 </head>
-<body class="<?= htmlspecialchars($pageClass) ?>">
+ <div class="search-translate-wrap">
   <div id="gtranslate"></div>
+
+  <form method="GET" action="/pimarket/index.php">
+    <input type="text" name="search" placeholder="🔍 Search for a product..." />
+    <button type="submit">Search</button>
+  </form>
+</div>
+
+<a href="vision.html" class="button">🌱 Vision</a>
+
+
+<body class="<?= htmlspecialchars($pageClass) ?>">
