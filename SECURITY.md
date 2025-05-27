@@ -1,10 +1,10 @@
-# 🔐 Security Policy for PiMarket
+# 🔐 Security Policy for pAImarket
 
 ## 📅 Supported Versions
 
-We currently support only the latest deployed version of PiMarket, available at:
+We currently support only the latest deployed version of pAImarket, available at:
 
-🔗 https://playforall.online/pimarket
+🔗 https://playforall.online/pAImarket
 
 ---
 
