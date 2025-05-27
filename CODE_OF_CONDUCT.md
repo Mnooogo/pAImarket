@@ -2,7 +2,7 @@
 
 ## 👋 Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in PiMarket a harassment-free experience for everyone.  
+We as members, contributors, and leaders pledge to make participation in pAImarket a harassment-free experience for everyone.  
 We are committed to creating a community where everyone feels welcome, respected, and safe – regardless of age, background, experience level, nationality, religion, or identity.
 
 ---
