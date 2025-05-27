@@ -1,16 +1,16 @@
-# 🤝 Contributing to PiMarket
+# 🤝 Contributing to pAImarket
 
 Welcome, Pi Pioneer! 👋  
 We’re building the future of peer-to-peer commerce using Pi – and **we'd love your help.**
 
 ---
 
-## 📦 What is PiMarket?
+## 📦 What is pAImarket?
 
-PiMarket is a P2P marketplace that runs on Pi cryptocurrency.  
+pAImarket is a P2P marketplace that runs on Pi cryptocurrency.  
 It's 100% open source, lightweight, mobile-ready, and built for emerging markets.
 
-🔗 [Live Demo](https://playforall.online/pimarket)  
+🔗 [Live Demo](https://playforall.online/pAImarket)  
 📜 [PiOS License](https://github.com/pi-apps/PiOS)
 
 ---
