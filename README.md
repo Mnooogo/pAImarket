@@ -49,7 +49,7 @@ This project is licensed under the **Pi Open Source License (PiOS)**.
 **Stefan Georgiev Spasov**  
 🔗 Pi Username: `@mnooogo1`  
 📧 Email: `mnooogopi@devcodeapp.site`  
-🌍 Project Site: [https://playforall.online](https://playforall.online)
+🌍 Project Site: https://www.playforall.online/pAImarket/
 
 ---
 
