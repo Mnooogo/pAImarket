@@ -33,7 +33,8 @@ pAImarket is a decentralized peer-to-peer (P2P) web application built for local 
 
 🌐 **Live Demo**: [https://playforall.online/pAImarket](https://playforall.online/pAImarket)
 
-📽️ **Pitch Video**: (coming soon)
+📽️ **Pitch Video:** [Watch on YouTube](https://www.youtube.com/watch?v=0btg4r5uNxM)
+
 
 ---
 
