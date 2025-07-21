@@ -48,6 +48,7 @@ This project is licensed under the **Pi Open Source License (PiOS)**
 If you like **pAImarket**, consider supporting:
 💖 Support  
 👉 [Support Page](https://playforall.online/pAImarket/support.html)
+
 💸 Accepting π donations + crypto + ❤️
 
 ---
